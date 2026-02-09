@@ -5,7 +5,7 @@ Welcome to the **Krishna's** repository! 🚀
 This repository is dedicated to hosting and saving files, code, and projects related to AI and Machine Learning **Repo's** [Github](https://www.github.com/krishna7844). Here, **Youtube** [Krishna](http://www.youtube.com/@krishna2259) you'll find a well maintained simplest explaination of AI and Machine Learning Concept Videos.
 
 # 💫 Hi 👋, I'm KRISHNA
-**A passionate AI/ML Engineee from India**
+**A passionate AI/ML Engineer from India**
 
 Email Me 👉 ✉️ **himanshu.kmp.prajapati@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **himanshu.kmp.prajapati@gmail.com** For Collaboration/Proj
 - 🌱 **I’m currently learning:** IOS App Development
 - 📫 **How to reach me:** himanshu.kmp.prajapati@gmail.com
 - 😄 **Pronouns:** Krishna
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** I Love Tech and Tech Loves Me
 
 <!-- Snake Game Repo View -->
 
