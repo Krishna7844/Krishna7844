@@ -10,7 +10,7 @@ This repository is dedicated to hosting and saving files, code, and projects rel
 Email Me 👉 ✉️ **himanshu.kmp.prajapati@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** AI/ML projects
-- 🌱 **I’m currently learning:** IOS App Development
+- 🌱 **I’m currently learning:** Android/IOS App Development
 - 📫 **How to reach me:** himanshu.kmp.prajapati@gmail.com
 - 😄 **Pronouns:** Krishna
 - ⚡ **Fun fact:** I Love Tech and Tech Loves Me
